@@ -1,0 +1,8 @@
+{
+  "name": "pitchlab-tactics-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilingual 2D / 3D football tactics studio with ball physics",
+  "scripts": {"test": "node --check dist/app.js && node --check dist/physics.js && node --test tests/physics.test.cjs"},
+  "license": "MIT"
+}
