@@ -1,5 +1,5 @@
 # PitchLab · Football Tactics Studio
-web⬇️
+web➡️
 https://chainlab-physics.netlify.app
 
 **A bilingual Arabic / English tactical sandbox: arrange generic players, place the ball anywhere, and explore passes in 2D or 3D.**
